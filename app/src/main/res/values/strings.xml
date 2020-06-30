@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="create_new_account">create new account</string>
+    <string name="phone_number_or_email">phone number or email</string>
+    <string name="password">password</string>
+    <string name="name">name</string>
+    <string name="sign_up">sign up</string>
+    <string name="you_will_not_be_creating_a_facebook_profile">you will not be creating a facebook profile</string>
+    <string name="forget_password">forget password</string>
+    <string name="sign_in">sign in</string>
+    <string name="chat">chat</string>
+    <string name="people">people</string>
+    <string name="more">more</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

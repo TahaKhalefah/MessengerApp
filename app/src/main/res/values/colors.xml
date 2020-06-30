@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fffdff</color>
+    <color name="colorPrimaryDark">#fffdff</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="messengerIcon">#017EFD</color>
+    <color name="gray">#F1EEEE</color>
+    <color name="darkGray">#8C8989</color>
+    <color name="whiteGray">#E4DEDE</color>
+    <color name="green">#1FBC25</color>
+</resources>
