@@ -16,12 +16,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" >
+
         <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/circle_image_view_profile"
             android:layout_width="36dp"
             android:layout_height="36dp"
-            android:src="@drawable/ic_account_circle"
-            android:id="@+id/circle_image_view_profile"
-            />
+            android:src="@drawable/taha"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="10dp" />
         <TextView
             android:id="@+id/title_text_view"
             android:layout_width="wrap_content"

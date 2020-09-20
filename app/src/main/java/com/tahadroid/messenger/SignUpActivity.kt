@@ -81,7 +81,7 @@ class SignUpActivity : AppCompatActivity(), TextWatcher {
     private fun createNewAccount(name:String,email: String, password: String) {
 
         auth.createUserWithEmailAndPassword(email, password).addOnCompleteListener { task ->
-            val newUser= User(name)
+            val newUser= User()
             currentUserDocRef.set(newUser)
             if (task.isSuccessful) {
                 progressBar_sign_up.visibility= View.GONE
